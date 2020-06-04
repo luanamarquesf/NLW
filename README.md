@@ -1,2 +1,2 @@
 # NLW
-Curso Next Level Week
+Curso Next Level Week oferecido pela Rocketseat
